@@ -1,2 +1,2 @@
 print "hello world"
-print "good night"
+print "late all night"
